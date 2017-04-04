@@ -1,0 +1,41 @@
+Sample	Cohort	MetaboliteName	Intensity
+Standard Sample (S215)	a std 1 200uM	Citrate	22892994.46
+Standard Sample (S215)	a std 1 200uM	Glutamate	17536.8
+Standard Sample (S216)	b std 2	Citrate	13903777.29
+Standard Sample (S216)	b std 2	Glutamate	19085.0
+Standard Sample (S217)	c std 3	Citrate	8063231.16284
+Standard Sample (S217)	c std 3	Glutamate	17769.2
+Standard Sample (S218)	d std 4	Citrate	3819500.476
+Standard Sample (S218)	d std 4	Glutamate	18385.4
+Standard Sample (S219)	e std 5	Citrate	2262062.256
+Standard Sample (S219)	e std 5	Glutamate	18623.6
+Standard Sample (S220)	f std 6	Citrate	1074552.6
+Standard Sample (S220)	f std 6	Glutamate	20093.8
+Standard Sample (S221)	g std 7	Citrate	544837.2
+Standard Sample (S221)	g std 7	Glutamate	18275.0
+Standard Sample (S222)	h std 8	Citrate	291840.4
+Standard Sample (S222)	h std 8	Glutamate	19491.6
+Standard Sample (S223)	i std 9	Citrate	122482.2
+Standard Sample (S223)	i std 9	Glutamate	18352.2
+Standard Sample (S224)	j std 10	Citrate	17417.333678
+Standard Sample (S224)	j std 10	Glutamate	18683.0
+Standard Sample (S225)	a std 1 200uM	Citrate	24810587.58
+Standard Sample (S225)	a std 1 200uM	Glutamate	17606.4
+Standard Sample (S226)	b std 2	Citrate	13833531.59
+Standard Sample (S226)	b std 2	Glutamate	19824.6
+Standard Sample (S227)	c std 3	Citrate	7464764.248
+Standard Sample (S227)	c std 3	Glutamate	18339.4
+Standard Sample (S228)	d std 4	Citrate	3950129.492
+Standard Sample (S228)	d std 4	Glutamate	19026.480291
+Standard Sample (S229)	e std 5	Citrate	1885698.4
+Standard Sample (S229)	e std 5	Glutamate	19008.6
+Standard Sample (S230)	f std 6	Citrate	934553.0
+Standard Sample (S230)	f std 6	Glutamate	19135.8
+Standard Sample (S231)	g std 7	Citrate	503534.4
+Standard Sample (S231)	g std 7	Glutamate	16582.0
+Standard Sample (S232)	h std 8	Citrate	288003.6
+Standard Sample (S232)	h std 8	Glutamate	18641.280291
+Standard Sample (S233)	i std 9	Citrate	117064.0
+Standard Sample (S233)	i std 9	Glutamate	19520.6
+Standard Sample (S234)	j std 10	Citrate	20539.6
+Standard Sample (S234)	j std 10	Glutamate	17689.0
